@@ -9,7 +9,7 @@ Keeps metadata intact.
 - Saves a default watermark path for quick use.
 
 ## How to Install
-Option A: Go to Extension Tab in WebUI, in Tab install from URL paste
+Option A: Go to Extension Tab in WebUI, in Tab install from URL paste https://github.com/Xavia1991/Watermarker
   
 Option B: Download this folder and put it in the `extensions/` folder of your Stable Diffusion WebUI.
    
