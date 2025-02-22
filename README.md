@@ -35,3 +35,6 @@ You won't have to click anything for your watermarks in the future.
   - Bottom-Left
   - Bottom-Right (default)
   - Center
+
+![image](https://github.com/user-attachments/assets/c7ccbf5d-e453-4cbb-b333-c9bde8f9b2c2)
+![image](https://github.com/user-attachments/assets/40c7a6f6-4ffe-4b5b-977a-beda2835d98a)
