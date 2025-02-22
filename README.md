@@ -9,9 +9,10 @@ Keeps metadata intact.
 - Saves a default watermark path for quick use.
 
 ## How to Install
-Option A: Go to Extension Tab in WebUI, in Tab install from URL paste 
+Option A: Go to Extension Tab in WebUI, in Tab install from URL paste
+  
 Option B: Download this folder and put it in the `extensions/` folder of your Stable Diffusion WebUI.
-
+   
 2. Reload UI or Restart the WebUI
 3. Look for "Add Watermark" in the Extras tab.
 
